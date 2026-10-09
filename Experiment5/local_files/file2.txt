@@ -1,0 +1,4 @@
+File 2: hadoop notes
+HDFS = Hadoop Distributed File System
+YARN = Yet Another Resource Negotiator
+MapReduce = parallel processing model

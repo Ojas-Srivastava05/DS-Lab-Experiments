@@ -1,0 +1,5 @@
+This is a sample text file for Hadoop HDFS operations.
+Experiment 5: Hadoop Installation, Configuration, and HDFS Operations
+
+HDFS stores files by dividing them into blocks and distributing them across nodes.
+Common operations: mkdir, put, ls, cat, get, cp, rm.

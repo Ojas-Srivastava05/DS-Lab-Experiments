@@ -1,0 +1,5 @@
+Hadoop is a big data framework.
+Hadoop uses MapReduce.
+MapReduce processes big data efficiently.
+HDFS stores big data in blocks.
+Hadoop is open source and Hadoop is scalable.

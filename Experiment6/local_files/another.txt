@@ -1,0 +1,4 @@
+Data science is the study of data to extract useful insights.
+Python and Hadoop are popular tools in data science.
+The Mapper emits a word and the Reducer adds the counts.
+Big data needs distributed storage and distributed processing.

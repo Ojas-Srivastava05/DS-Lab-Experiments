@@ -1,0 +1,3 @@
+File 1: passenger notes
+Titanic dataset is often used in Data Science Lab experiments.
+This file is uploaded to HDFS for the multi-file exercise.
