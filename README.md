@@ -1,6 +1,6 @@
 # DS Lab
 
-Organized Data Science Lab experiments (1-8).
+Organized Data Science Lab experiments (1-10).
 
 ## Folder Structure
 
@@ -51,6 +51,16 @@ DS Lab/
 │   ├── U24AI028_Experiment8_Output.pdf
 │   ├── Theory_and_Formulae.pdf
 │   └── src/              create_titanic.hql, exercises.hql
+├── Experiment9/          Text Preprocessing and Feature Scaling
+│   ├── Assignment.pdf
+│   ├── Notebook.ipynb
+│   ├── U24AI028_Experiment9_Output.pdf
+│   └── Theory_and_Formulae.pdf
+├── Experiment10/         Shingling and Locality Sensitive Hashing
+│   ├── Assignment.pdf
+│   ├── Notebook.ipynb
+│   ├── U24AI028_Experiment10_Output.pdf
+│   └── Theory_and_Formulae.pdf
 ├── Shared/
 │   ├── Graphs_Types_and_Usages.pdf
 │   ├── titanic.csv
@@ -73,6 +83,8 @@ Experiment 7 needs Pig 0.18.0 at `/Users/ojas/pig-0.18.0`; Experiment 8 needs
 Hive 4.2.1 at `/Users/ojas/apache-hive-4.2.1-bin` and Java 21 (`brew install openjdk@21`).
 Install both with `Scripts/install_pig_hive.sh`.
 Experiments 7 and 8 run HDFS on port 8020.
+Experiments 9 and 10 need NLTK (stopwords and wordnet) and datasketch,
+listed in Shared/requirements.txt.
 ```
 
 ## Export notebook PDFs (with outputs)

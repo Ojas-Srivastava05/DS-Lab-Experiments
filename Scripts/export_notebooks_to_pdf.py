@@ -9,7 +9,11 @@ import nbformat
 from playwright.sync_api import sync_playwright
 
 BASE = Path(__file__).resolve().parent.parent
-EXPERIMENTS = ["Experiment1", "Experiment2", "Experiment3", "Experiment4", "Experiment5", "Experiment6", "Experiment7", "Experiment8"]
+EXPERIMENTS = [
+    "Experiment1", "Experiment2", "Experiment3", "Experiment4",
+    "Experiment5", "Experiment6", "Experiment7", "Experiment8",
+    "Experiment9", "Experiment10",
+]
 STUDENT_NAME = "Ojas Srivastava"
 ROLL_NO = "U24AI028"
 
